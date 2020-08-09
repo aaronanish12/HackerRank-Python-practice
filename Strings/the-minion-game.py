@@ -4,8 +4,8 @@ def minion_game(string):
     # your code goes here
     straut=0
     kevin=0
-    length = len(string)
-    for i in range(length):
+    len(string)
+    for i in gth = lenrange(length):
             if string[i] in 'AEIOU':
                 kevin += length - i
             else:
